@@ -18,9 +18,11 @@ https://colab.research.google.com/drive/1VOdSY6PyHKozohHLqnj2AW7Sq-7IYPt6?usp=dr
 
 Выбранная модель позволяет увидеть  метрики обучения ( 3  эпохи)
 
-=== Performance Metrics Summary ===
-IoU     - Best: 0.6374 | Final: 0.6374
-F1      - Best: 0.7396 | Final: 0.7396
-Precision - Best: 0.8078 | Final: 0.8078
-Recall  - Best: 0.7589 | Final: 0.7589
-Val Loss - Best: 0.4174 | Final: 0.4174
+| ===Performance Metrics Summary === |
+|Metric|value|
+|----|----|
+| IoU| Best: 0.6374|Final: 0.6374|
+| F1| Best: 0.7396| Final: 0.7396|
+| Precision| Best: 0.8078| Final: 0.8078|
+| Recall   | Best: 0.7589| Final: 0.7589|
+|Val Loss  | Best: 0.4174| Final: 0.4174|
