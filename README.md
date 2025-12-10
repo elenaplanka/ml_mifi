@@ -16,7 +16,7 @@ ML модель типа детекции (сегментации участко
 Презентация модели по ссылке в colab:
 https://colab.research.google.com/drive/1VOdSY6PyHKozohHLqnj2AW7Sq-7IYPt6?usp=drive_link 
 
-источник данных для обучения модели https://huggingface.co/datasets/giswqs/geospatial/resolve/main/waterbody-dataset.zip 
+источник данных для обучения модели [waterbody dataset] (https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies)
 
 есть возможность загрузить свое фото для проверки результата.
 
